@@ -4,6 +4,8 @@ A desktop automation tool for automating dumpling upgrades.
 
 Dumpling Macro uses configurable screen coordinates, color detection, and a toggle hotkey to automate repetitive upgrade actions while allowing the user to easily configure positions for their own game setup.
 
+![AutoClicker Pro Screenshot](assests/screenshot.png)
+
 ---
 
 # ✨ Features
