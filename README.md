@@ -66,7 +66,7 @@ python3 --version
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Juke1992kilum/Dumpling-Auto-Upgrade-Inventory-Macro
 ```
 
 Enter the project folder:
